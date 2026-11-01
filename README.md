@@ -1,6 +1,6 @@
 # Roblox Script Templates
 
-These are scripts I have made that I reuse for other Roblox projects I make.
+These are scripts I've made that I tend to reuse for other projects. I also included systems I've made in the past. I'm always learning though so I definitely could code some of those systems better.
 
 ## Client Side Script Loader
 - [Initiate Client Script Loader](client_init_load.luau)
