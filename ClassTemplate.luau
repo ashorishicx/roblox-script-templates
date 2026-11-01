@@ -25,11 +25,11 @@ function Class.start(self:Class)
 	
 end
 
-function Class.doSomething(self:Class)
+function _privFunction(self:Class)
 	
 end
 
-function _privFunction(self:Class)
+function Class.doSomething(self:Class)
 	
 end
 
