@@ -13,7 +13,7 @@ for _, module in ipairs((game:GetService("ServerScriptService").Modules):GetChil
 	end)
 	
 	if not success then
-		warn(`[ERROR] Failed to load {module.Name}: {result}`)
+		warn(`[!] Failed to load {module.Name}: {result}`)
 		continue
 	end
 	
